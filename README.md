@@ -6,7 +6,7 @@ A streamlined guide for hosting private Arma 3 sessions with friends using **Zer
 
 ## 🛠 Pre-Flight Checklist
 Before starting, ensure everyone in the squad has:
-1. **Matching Mods:** You must have the exact same modlist enabled in the Arma 3 Launcher download the HTML file that is in this repo and import that in your arma 3 in the launcher.
+1. **Matching Mods:** Download the `.html` modlist file from this repo. Open the Arma 3 Launcher, go to the **Mods** tab, click **Import**, and select that file.
 2. **ZeroTier One:** Download and install from [zerotier.com](https://www.zerotier.com/download/).
 
 ---
@@ -49,14 +49,19 @@ If using Direct Connect, the host must provide their **ZeroTier Managed IP**:
 
 ---
 
-> [!CAUTION]
-> **Security:** Only authorize people you trust. ZeroTier acts like a physical cable plugged into your router. If a stranger joins your dashboard, **Delete/De-auth** them immediately.
+## 🤝 Joining My Sessions
+I host private sessions for a specific group of players. 
+* **Steam Group:** We have an active Steam group for coordination. Ask me for an invite!
+* **Access:** I only authorize ZeroTier access to players who have contacted me directly first.
 
 ---
 
-### 🛡 Troubleshooting
+## 🛡 Troubleshooting & Performance
 * **Firewall:** If you can't see the server, ensure **Windows Firewall** allows Arma 3 and ZeroTier through.
 * **Network Profile:** Set the ZeroTier connection to "Private" or "Home" when Windows prompts you.
-* **Laptop Performance:** Since I am running server on an old mobile CPUs (like the i7-4700MQ),I keep the AI count reasonable to avoid server lag!
+* **CPU Limits:** I host on an i7-4700MQ. To keep frames stable for everyone, I keep the AI count optimized and reasonable.
+
+> [!CAUTION]
+> **Security:** Only authorize people you trust. ZeroTier acts like a physical cable plugged into your router. If a stranger joins your dashboard, **Delete/De-auth** them immediately.
 
 **Happy Hunting!**
