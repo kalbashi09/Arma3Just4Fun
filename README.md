@@ -6,7 +6,7 @@ A streamlined guide for hosting private Arma 3 sessions with friends using **Zer
 
 ## 🛠 Pre-Flight Checklist
 Before starting, ensure everyone in the squad has:
-1. **Matching Mods:** You must have the exact same modlist enabled in the Arma 3 Launcher.
+1. **Matching Mods:** You must have the exact same modlist enabled in the Arma 3 Launcher download the HTML file that is in this repo and import that in your arma 3 in the launcher.
 2. **ZeroTier One:** Download and install from [zerotier.com](https://www.zerotier.com/download/).
 
 ---
